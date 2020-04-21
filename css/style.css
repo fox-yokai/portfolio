@@ -1,0 +1,13 @@
+:root {
+    --dark-slate-gray: #2C423F;
+    --pewter-blue: #7D98A1;
+    --black-coral: #5E6572;
+    --cadet-blue: #A9B4C2;
+    --cultured: #EEF1EF;
+}
+
+@media screen and (max-width: 768px) {
+    #about-me {
+        margin-bottom: 60px;
+    }
+}

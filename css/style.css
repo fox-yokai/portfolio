@@ -26,3 +26,7 @@
 .darkText {
     color: var(--dark-slate-gray);
 }
+
+.lightText {
+    color: var(--cultured);
+}

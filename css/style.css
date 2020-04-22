@@ -12,18 +12,8 @@
     }
 }
 
-.darkSlateGray {
-    background-color: var(--dark-slate-gray);
-}
-
-.pewterBlue {
-    background-color: var(--pewter-blue);
-}
-
-.cadetBlue {
-    background-color: var(--cadet-blue);
-}
-
-.cultured {
+.socialBtn {
+    border-radius: 50%;
+    border-style: solid;
     background-color: var(--cultured);
 }

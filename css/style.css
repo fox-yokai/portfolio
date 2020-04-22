@@ -11,3 +11,19 @@
         margin-bottom: 60px;
     }
 }
+
+.darkSlateGray {
+    background-color: var(--dark-slate-gray);
+}
+
+.pewterBlue {
+    background-color: var(--pewter-blue);
+}
+
+.cadetBlue {
+    background-color: var(--cadet-blue);
+}
+
+.cultured {
+    background-color: var(--cultured);
+}

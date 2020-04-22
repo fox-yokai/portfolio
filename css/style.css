@@ -17,3 +17,8 @@
     border-style: solid;
     background-color: var(--cultured);
 }
+
+.navbar-background {
+    background-image: url(/assets/images/coffee-writing-computer-blogging-34600.jpg);
+    height: 80px;
+}

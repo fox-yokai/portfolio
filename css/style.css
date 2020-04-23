@@ -30,3 +30,7 @@
 .lightText {
     color: var(--cultured);
 }
+
+.blueBackground {
+    background-color: var(--pewter-blue);
+}

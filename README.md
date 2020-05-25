@@ -1,7 +1,7 @@
 # Portfolio of Patrick Cain's work
 This is a showcase of Patrick's work.
 
-![Portfolio](https://github.com/fox-yokai/portfolio/tree/master/portfolio.jpg?raw=true)
+![Portfolio](https://github.com/fox-yokai/portfolio/tree/master/portfolio.PMG?raw=true)
 ## Table of Contents
 - [Technologies](https://github.com/fox-yokai/portfolio#technologies)
 - [Change Log](https://github.com/fox-yokai/portfolio#change-log)

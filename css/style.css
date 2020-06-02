@@ -34,3 +34,7 @@
 .blueBackground {
     background-color: var(--pewter-blue);
 }
+ svg {
+     height: 40px;
+     width: 40px;
+ }
